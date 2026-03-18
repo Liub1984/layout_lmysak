@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 :root {
-=======
-html {
->>>>>>> ee2c9c7cf800be7c9c07647421376db1883aa288
   --blue-color: #00acdc;
   --text-color: #000;
 }
@@ -13,7 +9,6 @@ body {
   font-weight: 500;
 }
 
-<<<<<<< HEAD
 .header {
   display: flex;
   align-items: center;
@@ -26,33 +21,13 @@ body {
 
 .logo {
   display: block;
-=======
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.header {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding: 0 50px;
-  justify-content: space-between;
-  box-sizing: border-box;
->>>>>>> ee2c9c7cf800be7c9c07647421376db1883aa288
 }
 
 .nav-list {
   display: flex;
   align-items: center;
-<<<<<<< HEAD
   margin: 0;
   padding: 0;
-=======
-  padding: 0;
-  margin: 0;
->>>>>>> ee2c9c7cf800be7c9c07647421376db1883aa288
   list-style: none;
 }
 
@@ -69,7 +44,6 @@ ul {
   align-items: center;
   justify-content: center;
   height: 60px;
-<<<<<<< HEAD
   padding: 0;
 
   color: var(--text-color);
@@ -77,15 +51,6 @@ ul {
   text-transform: uppercase;
   font-size: 12px;
   position: relative;
-=======
-  font-size: 12px;
-  line-height: normal;
-  color: var(--text-color);
-  text-decoration: none;
-  text-transform: uppercase;
-  position: relative;
-  padding: 0;
->>>>>>> ee2c9c7cf800be7c9c07647421376db1883aa288
 }
 
 .nav-link:hover,
@@ -99,10 +64,7 @@ ul {
   bottom: 0;
   left: 0;
   width: 100%;
-<<<<<<< HEAD
 
-=======
->>>>>>> ee2c9c7cf800be7c9c07647421376db1883aa288
   height: 3px;
   background-color: var(--blue-color);
 }
